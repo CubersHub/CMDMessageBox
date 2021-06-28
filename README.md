@@ -5,4 +5,4 @@
 - Margin is always 5 spaces but it can be adjusted in the source code quite easily.
 
 # If run from live console
-- replace all %%a and %%b with %a and %b respectively.
+- replace all `%%a` and `%%b` with %a and %b respectively.
