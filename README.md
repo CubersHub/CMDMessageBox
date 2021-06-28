@@ -1,5 +1,5 @@
 # CMDMessageBox
-- Display a cmd window but it looks like a message box.
+- Opens a cmd window but it looks like a message box instead (native and fileless functionality without using powershell or mshta!).
 - Window is not interactive, even when pressing CTRL-C.
 - Horizontal and vertical padding is adjustable and the character to pad with.
 - Margin is always 5 spaces but it can be adjusted in the source code quite easily.
